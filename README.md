@@ -1,9 +1,10 @@
 # FA24Exercise-01b-Inky-Introduction
 
-My name is:
+My name is: 
 
-[Your Name]
+Zander Grumish
 
 My github username is:
 
-[Your Username]
+zgrumish
+
